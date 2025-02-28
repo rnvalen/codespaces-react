@@ -10,7 +10,8 @@ function App() {
         </p>
         <p className="small">
           Edit <code>src/App.js</code> and save to reload.
-          Hello! My Name is Rick.
+          <br></br>Hello! My Name is Rick.
+          <br></br>This is another page.
         </p>
         <p>
           <a
